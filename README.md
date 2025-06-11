@@ -1,20 +1,30 @@
-# NutriFit AI
+NutriFit AI
+Tagline: An AI-powered fitness coach that rewards your health goals using blockchain technology.
 
-**Tagline:** An AI-powered fitness coach that rewards your health goals using blockchain technology.
+What is NutriFit AI?
+NutriFit AI is your personal fitness assistant that helps you stay on track with your meals and workouts. It uses machine learning to create personalized plans based on your needs — and here's the twist: when you stick to your goals, you earn HealthTokens as rewards. These tokens are stored on the blockchain, so they’re secure and can’t be faked. It’s fitness with real motivation built in.
 
-## 🚀 What is NutriFit AI?
+How it Works (Simple View)
+You set your fitness and nutrition goals.
 
-NutriFit AI is a smart wellness assistant that uses machine learning to recommend personalized meal plans and workout routines — while rewarding users with HealthTokens (on-chain) for consistency and discipline.
+NutriFit AI gives you a tailored workout and meal plan.
 
-## 🔧 Tech Stack
-- Frontend: React.js, Tailwind CSS
-- Backend: Node.js, Flask
-- ML: Scikit-learn, Pandas
-- Blockchain: Solidity, Polygon
-- Database/Auth: Firebase
+You log your progress.
 
-## 🪙 Web3 Twist
-Track your progress and earn HealthTokens for meeting fitness goals — bringing motivation through blockchain rewards.
+When you hit your goals consistently, you earn HealthTokens.
 
-## 📌 Status
-Ideation phase. Development will begin during the hackathon timeline.
+It’s like getting paid (in digital rewards) to stay healthy.
+
+Tech Under the Hood
+Frontend: React.js + Tailwind CSS
+
+Backend: Node.js and Flask
+
+Machine Learning: Scikit-learn, Pandas
+
+Blockchain: Solidity on Polygon
+
+Authentication and Storage: Firebase
+
+Current Stage
+We’re in the ideation phase right now. Core development is set to begin during the hackathon timeline.
